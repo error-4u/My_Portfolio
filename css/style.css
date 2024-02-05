@@ -13,15 +13,15 @@
   --red: #dc3545;
   --orange: #fd7e14;
   --yellow: #ffc107;
-  --green: #28a745;
-  --teal: #20c997;
+  --green: #101110;
+  --teal: #55081f;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #580c47;
   --secondary: #6c757d;
-  --success: #28a745;
+  --success: #a79f28;
   --info: #17a2b8;
   --warning: #ffc107;
   --danger: #dc3545;
@@ -2928,7 +2928,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #078571;
+  color: #6b0c91;
   text-decoration: underline;
 }
 
@@ -3902,7 +3902,7 @@ input[type="button"].btn-block {
 .custom-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #0BCEAF;
+  background-color: #ce420b;
   border: 0;
   border-radius: 1rem;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
